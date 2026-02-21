@@ -121,25 +121,40 @@ Represents lifecycle transitions of core entities including prescriptions, finan
 **Repository Structure**
 
 Pharmacy-Management-System-UML/
+
 │
 ├── documentation/
+
 │   ├── Project_Scenario.pdf
+
 │   ├── Requirements_Analysis.pdf
+
 │   └── System_Design_Report.pdf
+
 │
 ├── uml-model/
+
 │   └── Pharmacy_System_Model.mdl
+
 │
 ├── diagrams/
+
 │   ├── use-case/
+
 │   ├── activity/
+
 │   ├── sequence/
+
 │   └── state/
+
 │
 ├── presentation/
+
 │   └── System_Design_Presentation.pptx
+
 │
-└── assets/
+└── assets/ 
+ 
     └── supporting_media/
 
 ---------------------------------------------------------------------------------------------
@@ -263,7 +278,9 @@ The work aligns with research domains including:
 **Model Access**
 
 The UML model file:
+
 Pharmacy_System_Model.mdl
+
 can be inspected using UML-compatible modeling tools supporting .mdl format.
 
 ---------------------------------------------------------------------------------------------
